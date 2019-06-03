@@ -9,14 +9,14 @@ section#conteudo {
 
 iframe#frame-spec {
 
-	width: 380px;
+	width: 400px;
 	height: 280px;
 	border: none;
 	overflow: hidden;
 
 }
 
-iframe#frame-spec::-webkit-scrollbar {
+iframe#frame-spec::-webkit-scroll-bar {
 
 	display: none;
 
