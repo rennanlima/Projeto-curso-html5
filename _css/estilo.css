@@ -270,6 +270,28 @@ aside#lateral h2{
 	
 }
 
+/*Formatação de vídeos*/
+
+video#video-um {
+
+	display: block;
+	position: relative;
+	width: 500px;
+	padding: 5px;
+	margin: auto;
+
+}
+
+video#video-dois {
+
+	display: block;
+	position: relative;
+	width: 400px;
+	padding: 5px;
+	margin: auto;
+
+}
+
 /*Formatação do rodapé*/
 
 footer#rodape {
